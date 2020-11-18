@@ -5,10 +5,13 @@ I used google colab to train the model
 Libraries:
 
 pytorch
+
 Albumentation for data augmentation
+
 pytorch pretrained models
 
 see TB.ipynb for instalation details, stored in notebook folder
+
 
 the data used is the small version: train_small.zip/ test_small.zip stored in inputs folder
 
