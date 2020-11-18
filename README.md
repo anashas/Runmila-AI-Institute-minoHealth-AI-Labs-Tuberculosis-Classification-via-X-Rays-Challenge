@@ -1,5 +1,7 @@
 # Runmila-AI-Institute-minoHealth-AI-Labs-Tuberculosis-Classification-via-X-Rays-Challenge
 
+# web site https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge
+
 I used google colab to train the model
 
 Libraries:
