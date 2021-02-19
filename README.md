@@ -29,4 +29,6 @@ the training models are saved in models folder
 to run the code please store your data according to the folders as disccused above and don't forget to change paths in the main notebook.
 
 you can add inputs folder to store your data and another folder called models to save your best trained models
+
+My Zindi Profile : https://zindi.africa/users/data_scientist
  
