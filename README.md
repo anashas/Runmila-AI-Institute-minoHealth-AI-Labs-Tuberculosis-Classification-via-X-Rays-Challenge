@@ -30,5 +30,5 @@ to run the code please store your data according to the folders as disccused abo
 
 you can add inputs folder to store your data and another folder called models to save your best trained models
 
-My Zindi Profile : https://zindi.africa/users/data_scientist
+My Zindi [Profile](https://zindi.africa/users/Anas_Hasni).
  
