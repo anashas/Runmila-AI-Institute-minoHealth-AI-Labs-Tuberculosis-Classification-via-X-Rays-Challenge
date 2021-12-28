@@ -2,7 +2,8 @@
 
 ### competition [website](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge)
 
-- **Tools**: ```Google Colab```, ```Pytorch```, ```Albumentation```, ```Pytorch pretrained models```
+- **Tools**: ```Google Colab```, ```Pytorch```, ```Albumentation```, ```Pytorch pretrained models```, ```Resnet152```
+- **Techniques**: ```Transfer Learning```, ```Data Augmentation```
 
 - See ```TB.ipynb``` for package installation details, stored in notebook folder
 
